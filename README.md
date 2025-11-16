@@ -1,8 +1,7 @@
-# Environmental Monitoring in New Zealand: An In-Depth Exploration of
-Spatiotemporal Relation
+# Environmental Monitoring in New Zealand: An In-Depth Exploration of Spatiotemporal Relation
 
 
-This repository contains the code, data, and experiments related to *Environmental Monitoring in New Zealand: An In-Depth Exploration of Spatiotemporal Relation* .  
+This repository contains the code, data, and experiments related to the paper *Environmental Monitoring in New Zealand: An In-Depth Exploration of Spatiotemporal Relation*, [accepted](https://openreview.net/forum?id=PD05fBh0B1) to the [AAAI 2026 Workshop on AI for Environmental Science](https://sites.google.com/view/ai4es/home).
 
 The project is structured to ensure **reproducibility**, **modularity**, and **comparative analysis** across different model families.
 
@@ -31,7 +30,7 @@ The project is structured to ensure **reproducibility**, **modularity**, and **c
 **Clone the repository**
 
 ```bash
-git clone https://github.com/XXXX/repo_taio_aaai.git
+git clone https://github.com/LabIA-UFBA/TAIAO-forecasting.git
 cd repo_taio_aaai
 ```
 
@@ -57,8 +56,7 @@ pip install -r requirements.txt
 
 ## 🚀 Running the Models
 
-Each model is implemented in a separate Python file inside the `code/` directory.
- For example:
+Each model is implemented in a separate Python file inside the `code/` directory. For example:
 
 ```
 python code/model_sarima.py
@@ -79,14 +77,13 @@ jupyter notebook notebooks/Cronos-t5-base.ipynb
 jupyter notebook notebooks/TIMES_FM.ipynb
 ```
 
-orecast outputs are automatically saved under the `forecasting/` folder.
+Forecast outputs are automatically saved under the `forecasting/` folder.
 
 ------
 
 ## 📊 Visualizing Results
 
-The notebooks inside `notebooks/` allow you to reproduce, compare, and visualize results.
- Example:
+The notebooks inside `notebooks/` allow you to reproduce, compare, and visualize results. Example:
 
 ```shell
 jupyter notebook notebooks/CHEB.ipynb
@@ -96,5 +93,4 @@ jupyter notebook notebooks/CHEB.ipynb
 
 ## 🧾 License
 
-This project is distributed under the **GNU GENERAL PUBLIC LICENSE**.
- See the LICENSE file for details.
+This project is distributed under the **GNU GENERAL PUBLIC LICENSE**. See the LICENSE file for details.
