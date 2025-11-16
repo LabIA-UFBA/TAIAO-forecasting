@@ -3,6 +3,8 @@
 
 This repository contains the code, data, and experiments related to the paper *Environmental Monitoring in New Zealand: An In-Depth Exploration of Spatiotemporal Relation*, [accepted](https://openreview.net/forum?id=PD05fBh0B1) to the [AAAI 2026 Workshop on AI for Environmental Science](https://sites.google.com/view/ai4es/home).
 
+<center><img src="AAAI-TAIAO.png" width=500px/></center>
+
 The project is structured to ensure **reproducibility**, **modularity**, and **comparative analysis** across different model families.
 
 ---
