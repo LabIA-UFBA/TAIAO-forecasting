@@ -91,6 +91,18 @@ The notebooks inside `notebooks/` allow you to reproduce, compare, and visualize
 jupyter notebook notebooks/CHEB.ipynb
 ```
 
+## 🔗 Citation
+
+```bibtex
+@inproceedings{
+ferreira2026environmental,
+title={Environmental Monitoring in New Zealand: Exploring Spatiotemporal Relationships},
+author={Marcos Vin{\'\i}cius dos Santos Ferreira and Luiz Cl{\'a}udio Dantas Cavalcanti and Tatiane Nogueira Rios and Guilherme Weigert Cassales and Nick Jin Sean Lim and Albert Bifet and RICARDO RIOS},
+booktitle={AAAI-26 AI for Environmental Science Workshop},
+year={2026},
+url={https://openreview.net/forum?id=PD05fBh0B1}
+}
+```
 
 
 ## 🧾 License
